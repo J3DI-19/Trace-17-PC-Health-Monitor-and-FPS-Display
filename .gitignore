@@ -1,0 +1,17 @@
+# Compiled binaries & debug symbols
+*.exe
+*.pdb
+
+# Runtime logs & state flags
+logs/
+*.log
+*.log.previous
+*.flag
+
+# IDE / OS artifacts
+.vs/
+bin/
+obj/
+*.user
+Thumbs.db
+Desktop.ini
